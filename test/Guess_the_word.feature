@@ -6,7 +6,7 @@ Feature: Guess the word
     Then the Maker waits for a Breaker to join
 
   # The second example has three steps - edit2
-  @my_scenario_tag
+  @my_scenario_tag @guess_the_word
   Scenario: Breaker joins a game
     Given the Maker has started a game with the word "silky"
     When the Breaker joins the Maker's game
