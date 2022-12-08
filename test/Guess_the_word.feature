@@ -1,6 +1,6 @@
 Feature: Guess the word
 
-  # The first example has two steps - edit again
+  # The first example has two steps - edit again - new edit for 11.2.1
   Scenario: Maker starts a game
     When the Maker starts a game
     Then the Maker waits for a Breaker to join
