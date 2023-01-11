@@ -10,4 +10,4 @@ When I enter correct username and password
 
 And I click on Sign in button
 
-Then Inbox is displayed
+Then Inbox is displayed    test
