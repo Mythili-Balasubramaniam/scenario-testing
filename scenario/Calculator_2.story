@@ -1,0 +1,9 @@
+Feature: Calculator
+
+Scenario: TC01 - Sum of two numbers
+
+Given First number is 20 and second number is 10
+
+When Addition operation is performed - edit from github
+
+Then Result of two numbers is displayed - edit from scenario editor
