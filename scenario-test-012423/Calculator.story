@@ -1,4 +1,4 @@
-Feature:  Adding numbers with a Calculator
+Feature:  Adding numbers with a Calculator -edit
   In order to not learn math
   As someone who is bad at math
   I want to be able to add numbers using a Calculator
