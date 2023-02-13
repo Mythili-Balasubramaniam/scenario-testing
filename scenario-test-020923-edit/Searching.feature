@@ -1,4 +1,4 @@
-Feature: Searching
+Feature: Searching - Edit from Github
   As a web surfer, I want to search Google, so that I can learn new things.
   
   # Test ID: 12345
