@@ -3,7 +3,7 @@ Feature: Searching - Edit from Github
   
   # Test ID: 12345
   # Author: Andy
-  Scenario: Simple Google search
+  Scenario: Simple Google search - Edit from scenario editor
     Given a web browser is on the Google page
     When the search phrase "panda" is entered
     Then results for "panda" are shown
