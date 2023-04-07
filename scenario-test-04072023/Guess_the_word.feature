@@ -1,6 +1,6 @@
 Feature: Guess the word
 
-  # The first example has two steps - edit from new tab
+  # The first example has two steps - edit from new tab - edit from new window
   Scenario: Maker starts a game
     When the Maker starts a game
     Then the Maker waits for a Breaker to join
