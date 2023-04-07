@@ -1,6 +1,6 @@
 Feature: Account Holder withdraws cash
  
-Scenario: Account has sufficient funds
+Scenario: Account has sufficient funds - edit from incognito
     Given The account balance is $100
       And the card is valid
       And the machine contains enough money
