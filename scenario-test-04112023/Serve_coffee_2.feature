@@ -1,4 +1,4 @@
-Feature: Serve coffee - edit from github
+Feature: Serve coffee - edit from github - edit1
   In order to earn money
   Customers should be able to
   buy coffee at all times
