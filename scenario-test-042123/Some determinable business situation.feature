@@ -1,5 +1,5 @@
 Feature:
-  Some determinable business situation
+  Some determinable business situation - edit from github
 
 Scenario: Some determinable business situation
   Given some precondition
