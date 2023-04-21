@@ -1,5 +1,5 @@
 Feature:
-  Verification of Feedback Functionality
+  Verification of Feedback Functionality - edit from github
 
   Scenario: Verification of Feedback Functionality
     Given the user navigates to JavaTpoint.com
