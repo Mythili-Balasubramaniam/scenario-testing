@@ -1,4 +1,4 @@
-Feature: Login with Valid entries
+Feature: Login with Valid entries - github edit
 
 Scenario: Successful Login with Valid entries
 Given user navigates to the website javatpoint.com 
