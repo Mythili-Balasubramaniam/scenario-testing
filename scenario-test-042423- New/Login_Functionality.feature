@@ -1,4 +1,4 @@
-Feature: Login Functionality
+Feature: Login Functionality - github edit
 
 Scenario Outline: Login functionality
 Username | Password
