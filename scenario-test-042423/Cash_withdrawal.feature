@@ -1,4 +1,4 @@
-Feature: Cash withdrawal
+Feature: Cash withdrawal - edit from github
  
 Scenario: Account has sufficient funds - edit from scenario
     Given The account balance is $100
