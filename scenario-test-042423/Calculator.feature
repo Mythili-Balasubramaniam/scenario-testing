@@ -1,4 +1,4 @@
-Feature: Calculator
+Feature: Calculator - edit from github
  
 Calculator for adding two numbers
  
