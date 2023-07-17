@@ -1,4 +1,4 @@
-Feature: Google Searching - Edit from github
+Feature: Google Searching - Edit from github - edit from scenario editor once
   As a web surfer, I want to search Google, so that I can learn new things.
   
   Scenario: Simple Google search
