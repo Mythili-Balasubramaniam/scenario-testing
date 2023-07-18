@@ -1,4 +1,4 @@
-Feature: Calculator - edit from Github - edit from scenario editor again
+Feature: Calculator - new edit from Github
  
 Calculator for adding two numbers
  
