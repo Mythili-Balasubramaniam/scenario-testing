@@ -1,4 +1,4 @@
-Feature: Google Searching - github edit
+Feature: Google Searching
   As a web surfer, I want to search Google, so that I can learn new things.
   
   Scenario: Simple Google search
