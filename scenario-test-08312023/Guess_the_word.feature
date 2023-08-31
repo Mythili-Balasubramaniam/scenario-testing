@@ -1,4 +1,4 @@
-Feature: Guess the word
+Feature: Guess the word - Github edit
 
   # The first example has two steps
   Scenario: Maker starts a game
